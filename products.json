@@ -1,0 +1,14 @@
+{
+ "profile": {
+  "handle": "easyliving_item",
+  "name": "편리미엄리빙",
+  "bio": "귀찮은 집안일, 하나씩 지워드려요.\n영상 속 번호를 눌러 최저가로 확인하세요.",
+  "youtube": "https://youtube.com/@easyliving_item",
+  "theme": {
+   "ac": "#26A69A",
+   "ac_d": "#00897B",
+   "ac_soft": "#E0F2F1"
+  }
+ },
+ "videos": []
+}
